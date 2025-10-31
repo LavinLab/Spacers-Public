@@ -16,9 +16,10 @@ Built with **Unity**, this open-source demo is designed for quick fun, easy modd
 
 ## 🖼️ Screenshots  
 ![Main Menu](screenshots/main_menu.webp)  
-![Gameplay](screenshots/gameplay.png)  
-![Ship Select](screenshots/ship_select.png)  
-![Power-Up](screenshots/powerup.png)
+![Gameplay](screenshots/gameplay_one.webp)  
+![Gameplay](screenshots/gameplay_two.webp)  
+![Power-Up](screenshots/power_ups.webp)
+![Ships](screenshots/ships.webp)
 
 ## 📦 Installation  
 1. Clone the repository:  
