@@ -15,7 +15,7 @@ Built with **Unity**, this open-source demo is designed for quick fun, easy modd
 - 🖥️ Runs on **Android**
 
 ## 🖼️ Screenshots  
-![Main Menu](screenshots/main_menu.png)  
+![Main Menu](screenshots/main_menu.webp)  
 ![Gameplay](screenshots/gameplay.png)  
 ![Ship Select](screenshots/ship_select.png)  
 ![Power-Up](screenshots/powerup.png)
