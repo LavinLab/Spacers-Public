@@ -29,7 +29,12 @@ Built with **Unity**, this open-source demo is designed for quick fun, easy modd
 2. Open the project in Unity 2021+
 3. Build for your desired platform
 4. Play and defend the galaxy!
+
 ## 🧑‍🚀 About LavinLab
 We’re a small indie team of three developers passionate about retro games, ethical design, and creative experimentation.
 
 📧 Contact us: lavinlab@mail.ru
+
+## 📄 License
+This project is released under the Custom License.
+Feel free to use, modify, and distribute it in accordance with the license terms.
